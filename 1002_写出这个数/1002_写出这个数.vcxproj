@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CCA8E32F-746D-41E7-B2B3-4533A4DF212D}</ProjectGuid>
+    <ProjectGuid>{8CD10FCF-7B90-4B23-B373-C12F924476BC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My1001害死人不偿命的3n1猜想</RootNamespace>
+    <RootNamespace>My1002写出这个数</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
-    <ProjectName>basic</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -152,7 +151,6 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1001_害死人不偿命的(3n+1)猜想.cpp" />
     <ClCompile Include="1002_写出这个数.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

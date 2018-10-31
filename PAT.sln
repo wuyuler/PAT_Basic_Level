@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1001_害死人不偿命的(3n+1)猜想", "1001_害死人不偿命的(3n+1)猜想\1001_害死人不偿命的(3n+1)猜想.vcxproj", "{CCA8E32F-746D-41E7-B2B3-4533A4DF212D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic", "1001_害死人不偿命的(3n+1)猜想\1001_害死人不偿命的(3n+1)猜想.vcxproj", "{CCA8E32F-746D-41E7-B2B3-4533A4DF212D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
